@@ -1,4 +1,4 @@
----
+---edoğrulamak.md4096R/42B317FD4BA89E7A 2016-03-10
 title: About collaborative development models
 intro: The way you use pull requests depends on the type of development model you use in your project. You can use the fork and pull model or the shared repository model.
 redirect_from:
